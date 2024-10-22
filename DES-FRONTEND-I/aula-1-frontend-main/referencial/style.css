@@ -84,3 +84,14 @@ footer {
 footer p {
     margin: 0;
 }
+
+footer p a {
+    margin: 0 10rem;
+    text-decoration: none;
+    color: #ccc;
+    font-size: 1.2rem;
+}
+
+footer p a:hover {
+    border-bottom: 1px solid aliceblue;
+}

@@ -1,0 +1,5 @@
+print("Type int:", 1, "=>", type(1))
+print("Type float:", 1.0, "=>", type(1.0))
+print("Type str:", "string", "=>", type("string"))
+print("Type bool:", True, "=>", type(True))
+print("Type list:", [1, 2, 3], "=>", type([1, 2, 3]))

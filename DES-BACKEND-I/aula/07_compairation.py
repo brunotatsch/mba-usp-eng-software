@@ -1,0 +1,6 @@
+print('Equal (==) 25==25', 25==25)
+print('Not Equal (!=) 25!=25', 25!=25)
+print('Greater than (>) 25>25', 25>25)
+print('Lesser than (<) 25<25', 25<25)
+print('Greater than or equal (>=) 25>=25', 25>=25)
+print('Lesser than or equal (<=25) 25<=25', 25<=25)
